@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi! 👋 I am Baihaqi Alza
 
-<!--
-**bhqialza/bhqialza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps & AI Enthusiast** | ☁️ **Cloud Computing (AWS & GCP)**  
+💡 Passionate about **Automation, AI, and Cloud-Based Waste Management Solutions**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack:
+- **Cloud:** AWS ☁️ | GCP ☁️  
+- **DevOps:** Jenkins ⚙️ | Docker 🐳 | Kubernetes ☸️  
+- **Programming:** Python 🐍 | Laravel ⚡  
+
+---
+
+## 📫 Connect with me:
+- 💼 [LinkedIn](https://linkedin.com/in/bhqialza)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhqialza&show_icons=true&theme=tokyonight)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bhqialza&theme=onedark)
+  
