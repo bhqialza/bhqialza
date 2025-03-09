@@ -22,11 +22,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhqialza&layout=compact&theme=tokyonight" width="48%">
 </p>
 
-## 🔥 My Repositories
-
-### Featured Projects
-- [**Project A**](https://github.com/bhqialza/project-a) - Description of project A.
-- [**Project B**](https://github.com/bhqialza/project-b) - Description of project B.
-
 ---
 <p align="center">⭐️ Feel free to star my repositories if you find them useful! ⭐️</p>
