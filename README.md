@@ -5,15 +5,35 @@
   <img src="https://github-profile-trophy.vercel.app/?username=bhqialza&theme=onedark&no-bg=true&no-frame=true" width="48%">
 </p>
 
-## 🚀 About Me
+## 🛠️ Tech Stack
 
-👨‍💻 **Cloud Enthusiast | DevOps & AI for Good**  
-☁ **Cloud:** AWS | GCP  
-⚙ **DevOps:** Jenkins ⚙ | Docker 🐳 | Kubernetes ☸  
-💻 **Programming:** Python 🐍 | Laravel ⚡  
+### ☁ Cloud Platforms
+- Amazon Web Services (AWS) ☁
+- Google Cloud Platform (GCP)
 
-🔗 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bhqialza)
+### ⚙️ DevOps & Tools
+- Jenkins | Docker 🐳 | Kubernetes ☸ | Ansible
+- CI/CD | Monitoring | GitHub Actions
+
+### 🧠 AI/ML Tools
+- AutoML Vision | TensorFlow | Scikit-learn
+- Image Classification | Cloud ML APIs
+
+### 💻 Programming & Frameworks
+- Python 🐍 | Flask | FastAPI | Jupyter
+- Laravel ⚡ | JavaScript | Bash
+
+### 🗄️ Databases
+- Firestore | MySQL | MongoDB
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bhqialza)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baihaqialza1289@gmail.com)
+
+---
 
 ## 📊 GitHub Stats
 
@@ -23,4 +43,13 @@
 </p>
 
 ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/bhqialza/bhqialza/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 <p align="center">⭐️ Feel free to star my repositories if you find them useful! ⭐️</p>
