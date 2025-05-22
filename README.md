@@ -5,8 +5,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhqialza&layout=compact&theme=tokyonight" width="48%">
 </p>  
 
-## 🛠️ Tech Stack
-
 <p align="center">
   <!-- Cloud Platforms -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
